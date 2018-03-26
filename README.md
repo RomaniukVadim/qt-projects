@@ -1,4 +1,4 @@
-#Qt projects
+# Qt projects
 
 ## Contributing
 
